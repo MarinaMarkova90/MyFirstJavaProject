@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ticket
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Marina
+Implementation-Vendor-Id: org.javacodemarina.webservices.rest
+Build-Jdk: 1.8.0_241
+Implementation-URL: http://projects.spring.io/spring-boot/ticket/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

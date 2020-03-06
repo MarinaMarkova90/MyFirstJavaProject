@@ -1,0 +1,9 @@
+D:\Marina_PractikumJava\service\ticket\src\main\java\org\javacodemarina\webservices\rest\ticket\service\TicketService.java
+D:\Marina_PractikumJava\service\ticket\src\main\java\org\javacodemarina\webservices\rest\ticket\domain\Ouner.java
+D:\Marina_PractikumJava\service\ticket\src\main\java\org\javacodemarina\webservices\rest\ticket\domain\Ticket.java
+D:\Marina_PractikumJava\service\ticket\src\main\java\org\javacodemarina\webservices\rest\ticket\domain\Comment.java
+D:\Marina_PractikumJava\service\ticket\src\main\java\org\javacodemarina\webservices\rest\ticket\endpoint\TicketEndpoint.java
+D:\Marina_PractikumJava\service\ticket\src\main\java\org\javacodemarina\webservices\rest\ticket\service\TicketRepository.java
+D:\Marina_PractikumJava\service\ticket\src\main\java\org\javacodemarina\webservices\rest\ticket\service\CommentRepository.java
+D:\Marina_PractikumJava\service\ticket\src\main\java\org\javacodemarina\webservices\rest\ticket\service\OunerRepository.java
+D:\Marina_PractikumJava\service\ticket\src\main\java\org\javacodemarina\webservices\rest\ticket\TicketApplication.java

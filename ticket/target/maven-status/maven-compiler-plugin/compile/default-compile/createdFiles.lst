@@ -1,0 +1,9 @@
+org\javacodemarina\webservices\rest\ticket\service\OunerRepository.class
+org\javacodemarina\webservices\rest\ticket\domain\Comment.class
+org\javacodemarina\webservices\rest\ticket\service\CommentRepository.class
+org\javacodemarina\webservices\rest\ticket\service\TicketRepository.class
+org\javacodemarina\webservices\rest\ticket\TicketApplication.class
+org\javacodemarina\webservices\rest\ticket\endpoint\TicketEndpoint.class
+org\javacodemarina\webservices\rest\ticket\domain\Ouner.class
+org\javacodemarina\webservices\rest\ticket\domain\Ticket.class
+org\javacodemarina\webservices\rest\ticket\service\TicketService.class

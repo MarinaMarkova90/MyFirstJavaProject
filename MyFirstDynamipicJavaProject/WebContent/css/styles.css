@@ -1,0 +1,71 @@
+@charset "UTF-8";
+  .container { 
+            height: 100px; 
+            width: 80%; 
+            border: 2px solid #239B56; 
+            background-color: #EAFAF1; 
+            color: #239B56; 
+            font-size: 18px;
+            }
+            .header{
+            font-size: 30px;
+            color: #186A3B;
+            align: center;
+            }
+            .header1{
+            font-size: 18px;
+            color: #186A3B
+            }
+            .button_add{
+            height: 22px; 
+            width: 100px; 
+            border: 2px solid #239B56; 
+            background-color: #EAFAF1; 
+            font-size: 15px;
+            color: #0E6655
+            }
+            .button_reset{
+            height: 22px; 
+            width: 100px; 
+            border: 2px solid #239B56; 
+            background-color: #EAFAF1; 
+            font-size: 15px;
+            color: #0E6655
+            }
+            .button_report{
+            height: 22px; 
+            width: 100px; 
+            border: 2px solid #239B56; 
+            background-color: #EAFAF1; 
+            font-size: 15px;
+            color: #0E6655
+            }
+            .button_kind{
+            height: 22px; 
+            width: 100px; 
+            border: 2px solid #239B56; 
+            background-color: #EAFAF1; 
+            font-size: 15px;
+            color: #0E6655
+            }
+            .button_back{
+            height: 22px; 
+            width: 100px; 
+            border: 2px solid #239B56; 
+            background-color: #EAFAF1; 
+            font-size: 15px;
+            color: #0E6655
+            }
+            .button_generate_report{  
+            height: 22px; 
+            width: 100px; 
+            border: 2px solid #239B56; 
+            background-color: #EAFAF1; 
+            font-size: 15px;
+            color: #0E6655
+            }
+            .big_text_box{
+            height:100px; 
+            width: 400px; 
+            border: 2px solid #239B56; 
+            }
